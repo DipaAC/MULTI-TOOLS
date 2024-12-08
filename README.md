@@ -2,8 +2,8 @@
 
 $ git clone https://github.com/DipaAC/MULTI-TOOLS.git
 
-$ pip install -r requirements.txt
-
 $ cd MULTI-TOOLS
+
+$ pip install -r requirements.txt
 
 $ python main.py
